@@ -1,0 +1,15 @@
+/home/lex/geegbrains/programming/c#/homework/new_string_array/bin/Debug/net7.0/new_string_array
+/home/lex/geegbrains/programming/c#/homework/new_string_array/bin/Debug/net7.0/new_string_array.deps.json
+/home/lex/geegbrains/programming/c#/homework/new_string_array/bin/Debug/net7.0/new_string_array.runtimeconfig.json
+/home/lex/geegbrains/programming/c#/homework/new_string_array/bin/Debug/net7.0/new_string_array.dll
+/home/lex/geegbrains/programming/c#/homework/new_string_array/bin/Debug/net7.0/new_string_array.pdb
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.csproj.AssemblyReference.cache
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.AssemblyInfoInputs.cache
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.AssemblyInfo.cs
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.csproj.CoreCompileInputs.cache
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.dll
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/refint/new_string_array.dll
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.pdb
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/new_string_array.genruntimeconfig.cache
+/home/lex/geegbrains/programming/c#/homework/new_string_array/obj/Debug/net7.0/ref/new_string_array.dll

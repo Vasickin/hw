@@ -1,0 +1,5 @@
+new_string_array/.gitignore
+new_string_array/bin/
+new_string_array/new_string_array.csproj
+new_string_array/obj/
+homework.sln

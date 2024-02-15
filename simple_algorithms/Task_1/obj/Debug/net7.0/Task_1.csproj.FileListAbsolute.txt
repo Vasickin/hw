@@ -1,0 +1,15 @@
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.csproj.AssemblyReference.cache
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.AssemblyInfoInputs.cache
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.AssemblyInfo.cs
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.csproj.CoreCompileInputs.cache
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/bin/Debug/net7.0/Task_1
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/bin/Debug/net7.0/Task_1.deps.json
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/bin/Debug/net7.0/Task_1.runtimeconfig.json
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/bin/Debug/net7.0/Task_1.dll
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/bin/Debug/net7.0/Task_1.pdb
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.dll
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/refint/Task_1.dll
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.pdb
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/Task_1.genruntimeconfig.cache
+/home/lex/geegbrains/programming/c#/homework/simple_algorithms/Task_1/obj/Debug/net7.0/ref/Task_1.dll
